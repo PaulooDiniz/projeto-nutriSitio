@@ -383,9 +383,10 @@ footer {
     justify-content: center;
     background-color: var(--color-neutral-0);
     font-size: 0.9rem;
-    padding: 0.5rem;
+    padding: 0.9rem;
     font-weight: 900;
 }
+
 
 @media screen and (max-width: 768px) {
     #footer_content {
@@ -393,6 +394,7 @@ footer {
         gap: 2rem;
     }
 }
+
 
 @media screen and (max-width: 426px) {
     #footer_content {
